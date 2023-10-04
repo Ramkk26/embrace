@@ -1,0 +1,317 @@
+@media (max-width: 575.98px) {
+  .pt {
+    padding-top: 20px;
+  }
+
+  .padding-bottom {
+    padding-bottom: 20px;
+  }
+  .section-padding {
+    padding: 40px 0px;
+  }
+  .brand h1 {
+    display: inline;
+    font-size: 35px;
+    margin-bottom: 20px;
+  }
+  .h5 {
+    font-size: 20px;
+  }
+
+  .font35 {
+    font-size: 35px;
+  }
+  .line {
+    font-size: 20px;
+  }
+  .mail {
+    display: flex;
+    flex-direction: column;
+  }
+  .counter-right h2 {
+    font-size: 30px;
+  }
+  .counter-left span {
+    font-size: 30px;
+  }
+
+  .counter-right span {
+    font-size: 30px;
+  }
+
+  .collabs .line {
+    display: inline;
+    padding-left: 5px;
+  }
+
+  .counter-1 {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+
+  .company ul {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    text-align: center;
+  }
+  .chief h3 {
+    top: 28%;
+    left: 35%;
+  }
+  .members {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .email-btn {
+    width: 100px;
+    height: 40px;
+    font-size: 14px;
+  }
+
+  .des span {
+    font-size: 15px;
+  }
+
+  p {
+    font-size: 16px;
+    line-height: 25px;
+    letter-spacing: 1px;
+  }
+
+  .bottom {
+    display: grid;
+
+    justify-content: center;
+    text-align: center;
+    gap: 10px;
+  }
+
+  .counter-right {
+    margin-top: 20px;
+  }
+
+  .company img {
+    margin-right: 0px;
+  }
+
+  .card .coco img,
+  .card .nike img,
+  .card .apple img {
+    width: 286px;
+    height: 195px;
+    border-radius: 20px;
+    margin-top: 10px;
+  }
+  .next {
+    top: 95%;
+  }
+  .prev {
+    top: 95%;
+    left: 30%;
+  }
+}
+@media (max-width: 767.98px) {
+  .end {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .h2 {
+    font-size: 20px;
+  }
+
+  .end {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .nike {
+    margin-top: 20px;
+  }
+
+  .call-to-action {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .bottom {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .cta-right {
+    margin-top: 10px;
+  }
+  .start {
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
+
+@media (max-width: 991.98px) {
+  .members {
+    gap: 20px;
+  }
+
+  .line {
+    font-size: 20px;
+  }
+
+  .image img {
+    border-radius: 25px;
+    object-fit: cover;
+  }
+
+  .list-items {
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: block;
+    text-align: left;
+    width: 200px;
+    color: white;
+    justify-content: center;
+    transition: all 0.6s ease-out;
+    background: white;
+    height: 290px;
+    background: white;
+    z-index: 2;
+  }
+
+  .try {
+    margin-right: 43px;
+    margin-top: 10px;
+  }
+  .nav .fa {
+    display: block;
+    position: absolute;
+    top: 40%;
+    right: 0%;
+    color: black;
+    font-size: 20px;
+    cursor: pointer;
+    z-index: 2;
+  }
+  .icon {
+    display: grid;
+    gap: 30px;
+  }
+  .list-items ul {
+    display: grid;
+
+    margin-top: 30px;
+  }
+
+  .list-items ul li {
+    margin-top: 20px;
+  }
+  .list-items {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+  }
+
+  .footer {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 40px;
+  }
+
+  .icons h2 {
+    font-size: 18px;
+  }
+  .h-nav {
+    height: 10px;
+    width: 200px;
+  }
+  .des,
+  .right-start,
+  .nike,
+  .apple,
+  .coco {
+    margin-top: 30px;
+  }
+
+  .v-class {
+    opacity: 0;
+    width: 200px;
+  }
+  .faq-right {
+    margin-top: 20px;
+  }
+  .banner {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .mail {
+    gap: 20px;
+  }
+
+  .counter-2 {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .left-start h2 {
+    font-size: 20px;
+    padding-right: 10px;
+  }
+
+  .h5 {
+    font-size: 20px;
+  }
+
+  .counter-1 {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+  }
+  .learn a {
+    margin-top: 20px;
+  }
+  .mt {
+    margin-top: 30px;
+  }
+
+  .counter-left {
+    margin-right: 10px;
+  }
+
+  .collabs {
+    display: grid;
+    align-items: center;
+    text-align: left;
+    gap: 10px;
+  }
+
+  .no-left h2 {
+    font-size: 20px;
+  }
+
+  .bottom {
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
+
+@media (max-width: 1199.98px) {
+  .card {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+
+  .team {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .sign {
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
